@@ -1,0 +1,23 @@
+header {
+    background-color: gold;
+}
+header ::after
+{
+    display: flex;
+    margin: 90px;
+}
+.intro {
+    font-family: fantasy;
+    color: hotpink;
+}
+nav ul {
+    list-style-type: none;
+}
+nav li {
+display: inline-block;
+margin-left: 90px;
+text-align: center;
+}
+.intro {
+    background-color: indianred;
+}
